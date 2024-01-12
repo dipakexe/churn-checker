@@ -1,0 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+    font-family: sans-serif;
+}
+
+button:active {
+    box-shadow: 0px 0px 3px grey;
+}
